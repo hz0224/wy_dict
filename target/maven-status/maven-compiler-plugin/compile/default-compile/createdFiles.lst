@@ -1,0 +1,11 @@
+showdoc\ReadSchema.class
+utils\ReadMysqlUtils.class
+showdoc\Test.class
+bean\PageMsg.class
+bean\TotalTable.class
+showdoc\Main.class
+utils\WriteMysqlUtils.class
+showdoc\WriteSchema.class
+bean\TableMsg.class
+bean\ColumnRemark.class
+bean\Page.class
